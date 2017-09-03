@@ -12,6 +12,4 @@ Emmerich Kitz <ekitz@directbox.com>
 
 '''
 
-== Einleitung
-
-Es gibt
+include::Einleitung.adoc[]
