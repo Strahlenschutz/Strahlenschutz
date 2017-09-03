@@ -1,0 +1,17 @@
+= Strahlen und Strahlenschutz in der Arbeitswelt
+Emmerich Kitz <ekitz@directbox.com>
+:doctype: book
+:encoding: utf-8
+:lang: de
+:description: Alles was eine SFK zum Thema Strahlen am Arbeitsplatz wissen sollte
+:keywords: Strahlenschutz, Arbeitnehmerschutz, SFK, AUVA
+
+:toc: left
+:toclevels: 2
+:numbered:
+
+'''
+
+== Einleitung
+
+Es gibt
